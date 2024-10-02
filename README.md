@@ -19,7 +19,7 @@ This is a simple yet advanced **To-Do List** web application built with **HTML**
 
 ## Demo
 
-You can see a live demo of the project [here](#) (link to your GitHub Pages or live site).
+You can see a live demo of the project [here](https://tarek514.github.io/Advanced-To-Do-List/).
 
 ## Technologies Used
 
